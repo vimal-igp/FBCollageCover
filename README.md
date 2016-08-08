@@ -25,3 +25,4 @@ so every bitmap needed to be stored and re-sized with care (for minimum memory u
 there we have an 'EXIF flag' for orientation which needs to checked before re-sizing the image and setting the view in activity. 
 
 https://cloud.githubusercontent.com/assets/16253498/17493561/8a940dce-5dce-11e6-99c1-d44284acb64b.png
+
